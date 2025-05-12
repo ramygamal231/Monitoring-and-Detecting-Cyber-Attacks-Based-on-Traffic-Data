@@ -43,13 +43,13 @@ The main objective of this project is to build, train, and evaluate various mach
 
 ## 🔎 **Results**
 - **Best Model:** Random Forest performed the best in both tasks (Perfect 1s)
-- **Top 5 Most Important Features:** 1-TotBytes 2-SrcBytes 3-TotPkts 4-Dport 5-hour
+- **Top 5 Most Important Features:** 1-Proto 2-StartTime 3-Dir 4-TotBytes 5-Dur
 - **Deep Learning:** he deep learning model achieved comparable results to traditional machine learning approaches, with only slightly lower performance. This suggests that additional complexity may not be necessary for this particular dataset.
 - **Class Imbalance:** The extreme imbalance in the dataset (99.9% botnet vs. 0.1% normal) is significant which risks overfitting. 
 
 
 ## ✅ **Conclusion**
 
-In this project, I was able to develop and evaluate multiple machine learning and deep learning models for cyber attack detection based on network traffic data. All models performed exceptionally well which demonstrates the effectiveness of machine learning approaches for cybersecurity applications. The Random Forest classifier emerged as the optimal model, achieving perfect scores across all evaluation metrics for both binary and multi-class classification tasks. Key features like total bytes, source bytes, and Total packets were critical. The dashboard enables real-time monitoring, aiding security teams in threat response.
+In this project, I was able to develop and evaluate multiple machine learning and deep learning models for cyber attack detection based on network traffic data. All models performed exceptionally well which demonstrates the effectiveness of machine learning approaches for cybersecurity applications. The Random Forest classifier emerged as the optimal model, achieving perfect scores across all evaluation metrics for both binary and multi-class classification tasks. Key features like protocol, startt time, and direction of network traffic were critical. The dashboard enables real-time monitoring, aiding security teams in threat response.
 
 
