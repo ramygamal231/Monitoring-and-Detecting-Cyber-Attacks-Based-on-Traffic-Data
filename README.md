@@ -10,7 +10,7 @@ Cybersecurity threats are evolving at a very fast pace, becoming more complex an
 - **Improving accuracy:** Machine learning models outperform traditional signature-based methods.
 - **Reduced Response Time:** Using automation threat detection, the time taken to detect the attack once the attack is initiated will be reduced, minimizing potential damage.
 
-## 🎯 **Why Choose RouteWise?**
+## 🎯 **Objective**
 
 The main objective of this project is to build, train, and evaluate various machine learning models that are capable of accurately detecting and classifying cyberattacks based on network traffic data. Let’s explore some of the sub-objectives of this project.
 
