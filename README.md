@@ -29,7 +29,6 @@ The main objective of this project is to build, train, and evaluate various mach
  
 - **Data Prepprocessing**:
   - **Handling Missing Values:** Median / Mode Imputation
-  - **One-Hot Encoding:** 130,502 samples & 17 features
   - **One-Hot Encoding:** Label encoding was used for any categorical data
   - **Feature Scaling:** Numeric features were standardized using StandardScaler
  
